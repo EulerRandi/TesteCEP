@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/09/09 09:14:15.878,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 09:14:59.130,C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\uFrmPrincipal.dfm=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/09 09:14:59.130,C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\uFrmPrincipal.pas=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 09:15:04.458,C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\TesteCEP.dproj=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/09/09 09:54:30.856,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 09:58:04.709,C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\uCEPController.pas=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 10:31:21.184,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 10:31:38.687,C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\uViaCEPModel.pas=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 10:37:33.871,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 10:37:43.600,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit2.pas</Transaction>
+    <Transaction>2024/09/09 11:31:09.896,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 11:31:48.851,C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\uApiCEPModel.pas=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 11:41:10.916,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 11:42:28.630,C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\uAwesomeAPICEPModel.pas=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 11:48:40.832,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\View\uFrmPrincipal.pas</Transaction>
+    <Transaction>2024/09/09 11:48:52.952,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Control\uCEPController.pas</Transaction>
+    <Transaction>2024/09/09 11:49:01.978,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Model\uApiCEPModel.pas</Transaction>
+    <Transaction>2024/09/09 11:49:02.014,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Model\uAwesomeAPICEPModel.pas</Transaction>
+    <Transaction>2024/09/09 11:49:02.029,=C:\Users\randi\OneDrive\Documentos\Embarcadero\Studio\Projects\TesteCEP\Model\uViaCEPModel.pas</Transaction>
+  </Transactions>
+</BorlandProject>
